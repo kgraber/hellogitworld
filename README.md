@@ -1,4 +1,3 @@
-hellogitworld
-=============
+# Hello Git World
 
-github training repository
+Github training repo
