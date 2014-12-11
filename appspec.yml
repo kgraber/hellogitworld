@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-- source: \
-destination: D:\inetpub\wwwroot\
-- source: \documents\
-destination: D:\inetpub\wwwroot\documents\
+  - source: \
+    destination: D:\inetpub\wwwroot\
+  - source: \documents\
+    destination: D:\inetpub\wwwroot\documents\
