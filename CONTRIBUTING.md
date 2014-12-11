@@ -6,3 +6,4 @@
 4. Open pull request and begin conversation
 5. Make changes on branch as necessary
 6. Sit back and wait for merge!
+7. Testing deployment
